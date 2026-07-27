@@ -12,4 +12,5 @@ https://doi.org/10.64898/2026.07.14.738406
 
 **ELAI:**
 - *Plot_Elai.R*: Plot Figure 3, followed analysis from https://github.com/phylolab/leucokranosHybrid/tree/main/5_analysis/5_4_elai
+-   Files HYB_elai_allchr_mg1_123.snpinfo.txt and HYB_elai_allchr_mean_ps21.txt are too large to upload, email lucy.fitzgerald@unil.ch for questions
 
