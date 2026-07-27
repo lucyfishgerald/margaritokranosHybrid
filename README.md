@@ -8,7 +8,7 @@ https://doi.org/10.64898/2026.07.14.738406
 
 **PCA & ADMIXTURE:**
 - *Figure1PCA_labelInd.R*: PCA results (Figure 2A)
-- *Figure2_plotADMIXTURE_K4.R*: Plot ADMIXTURE K = 4 (Figure 2B)
+- *Figure2_plotADMIXTURE_K4.R*: Plot ADMIXTURE K = 4 (Figure 2C)
 
 **ELAI:**
 - *Plot_Elai.R*: Plot Figure 3, followed analysis from https://github.com/phylolab/leucokranosHybrid/tree/main/5_analysis/5_4_elai
